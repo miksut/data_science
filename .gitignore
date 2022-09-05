@@ -1,0 +1,6 @@
+### JupyterNotebooks ###
+*/.ipynb_checkpoints/*
+
+src/Hyperband/
+src/tensorboard/
+src/*.h5
